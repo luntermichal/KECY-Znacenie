@@ -1,0 +1,1777 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KE.CY Zona 2</name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Folder>
+      <name>KE.CY Zona 2</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>Nebezpecny usek</name>
+        <description>Prepad 1
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196160,48.746214</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nebezpecny usek</name>
+        <description>Skala
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.200291,48.739909</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ2</name>
+        <description>SPLesmir, SLHriesny ?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.198477,48.749907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MC, SLSurway,Davidoff,Kammenny, Z1-&gt;Z2</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.201960,48.741696</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Altanok pod vedenim: MC, SPSurawy,SPKamenny,SPDavidoff
+SLBedla, SLHupiky</name>
+        <description>SLJahoda, SL Michalkov - alebo značka na Zónu3?
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193002,48.744645</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ2, SLSurawy, SLKamenny, SL Davidoff</name>
+        <description>Navigujeme aj na Zonu 1 a 3 ?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.186141,48.732273</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ2, Zona 1 -&gt; Zona 2 - treba ju tu?</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff8136b6</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.199696,48.747139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zona 1 -&gt; Zona 2 ?</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff8136b6</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.201752,48.743202</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Start Surway, Kammeny, Davidoff</name>
+        <description>MZ2, TSurawy, TKamenny, TDavidoff, SPDavidoff, SLKamenny, 2xKrizenie
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196153,48.744514</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KSurway, Krizenie</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.198407,48.749856</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec Davidoff, Zákazová tabula, Protismer, MZ2, SLSurawy</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.188804,48.735379</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec Kamenny + Protismer + Zákazová značka</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.201730,48.741761</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>StartHupiky</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.186896,48.745740</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>StartBedla</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.171699,48.751799</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KPBedla</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.186043,48.732322</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec Hupiky, SP Jahoda, SP Michalkov, MZ2</name>
+        <description>SLSurway? 
+Prechod Zona 2 -&gt; Zona 3 ?
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.168936,48.746057</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurawy + SV Výšlap</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196689,48.748479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPSurway</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.195629,48.746536</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurway</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196507,48.745801</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurawy, SL Kamenný,  SL Davidoff</name>
+        <description>Alebo len sipka vlavo</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196522,48.744089</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLDavidoff, SP Bedľa, SPJahoda, SP Michalkov, SP Hupiky, SP Kamenný, SP SuraWY</name>
+        <description>SLLesmir  - alebo značka na Zónu1?
+SPJahoda, SP Michalkov - alebo značka na Zónu3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193218,48.742825</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SRDavidoff</name>
+        <description>zakaz pesim ?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193093,48.742389</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPKamenny</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.197221,48.741966</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLBedla, SLHupiky</name>
+        <description>SL Zóna 3</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190761,48.745906</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLHupiky, SPBedla,MZ2</name>
+        <description>SLJahoda, SL Michalkov - alebo značka na Zónu3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.187682,48.747647</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SRBedla</name>
+        <description>SRJahoda, SR Michalkov resp. len značka na zónu 3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.182817,48.751141</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPJahoda, SP Michalkov</name>
+        <description>MC, Prechod Zona 2 -&gt; Zona 3
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.171674,48.751961</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLHupiky, SR Kamenný, Davidoff, SuraWy</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.187886,48.743230</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurawy,  SL Hupiky, SL Bedla, SL Davidoff, SLKamenný</name>
+        <description>SP Lesmir  - alebo značka na Zónu1?
+SLJahoda, SL Michalkov - alebo značka na Zónu3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193169,48.743419</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurway,SLKamenny, SL Davidoff</name>
+        <description>SRLesmir ? Navadzame aj na zonu 1?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189681,48.734848</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPSurawy, SPKamenny, SP Davidoff</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.192801,48.735445</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurway,SLKamenny, SL Davidoff</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.194217,48.735164</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLSurway, SLKamenny, SLDavidoff, SL Bedľa, SL Hupiky</name>
+        <description>SL na zónu 3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.192189,48.748982</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie, Protismer, zakaz</name>
+        <description>Kvoli konom
+
+maphub-meta:{"marker-symbol": "warning"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190995,48.739067</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizovanie + protismer a zákaz</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196408,48.748357</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie Surawy x Cervena + protismer + Zákaz</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.196021,48.746582</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie Davidoff x Cyklo, Protismer a zákazové tabule</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193381,48.742973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie, Protismer Kamenny x Cesta</name>
+        <description>Zakazová značka, SLKamenny
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.197125,48.742008</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizovanie,Protismer, Zákaz. značka, SR Bedla</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.173808,48.749357</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizovanie, SRBedla, SPHupiky</name>
+        <description>Protismer pre Bedlu + zákazová tabula
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.176849,48.739441</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie, SRBedla</name>
+        <description>Alebo Koniec oficialneho trailu ?
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.181827,48.732518</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MC, SRHriesny, SLHriesnyFlow</name>
+        <description>existujuca tycka
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.205448,48.769185</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MC Hresna</name>
+        <description>pridat k turistickym mapam aj tu nasu
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.188264,48.779858</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MC Alpinka</name>
+        <description>pridat k turistickym mapam aj tu nasu
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.180958,48.760296</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ4, Start SRHriesnyMravenisko</name>
+        <description>existujuca tycka
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.188138,48.779508</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ4, Start SPHriesnyNatural</name>
+        <description>existujuca tycka
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190088,48.776513</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ4, Start SRHriesnyVyslap, SRHriesnyFlow</name>
+        <description>start vyslapu aktualne neoznaceny
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.192248,48.768453</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ4, Start SRHriesnyFlow</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.195697,48.765887</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KMravenisko</name>
+        <description>koniec sekcie, z druhej strany protismer
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189130,48.777507</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KNatural, SLHriesnyVyslap/Flow</name>
+        <description>existujuca tycka na zlom mieste
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.191952,48.768861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KFlow + protismer + zákaz. tabula</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.192872,48.758843</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potok</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "warning", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190773,48.772446</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gap</name>
+        <description>momentalne nie je oznaceny
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190718,48.760824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesnyNatural,SLHriesnyMravenisko</name>
+        <description>alebo ako uz mame iba SRHriesnyNatural</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189220,48.777501</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SRHriesnyNatural</name>
+        <description>stlpik medzi cestami, ukazuje na dalsi smerovnik</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189360,48.777130</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLHriesnyNatural</name>
+        <description>mozno v tejto casti budu stacit 2 smerovniky</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189534,48.776784</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLHriesnyFlow</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.191226,48.767916</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesnyFlow</name>
+        <description>koniec hornej casti flowu (loop)</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193614,48.766609</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLHriesny, SPAlpinka</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.193058,48.758839</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP Hriešny</name>
+        <description>+ Značka SP zóna 1-3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.192114,48.758204</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLAlpinka</name>
+        <description>Značka SP zóna 1-3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189294,48.759033</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesnyFlow</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.188663,48.759566</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLAlpinka</name>
+        <description>Značka SP zóna 1-3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.186968,48.761392</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPAlpinka</name>
+        <description>Značka SP zóna  1-3?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.186144,48.759040</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SLBankov, koniec zony4</name>
+        <description>Značka na SL Zóna 1 a 2?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.177162,48.762235</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesny? zona4</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.159510,48.796580</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesny? zona4</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.165140,48.785700</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPHriesny? zona4</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.178979,48.762844</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie cesty, SRHriesnyNatural</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.190324,48.774917</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krizenie cesty, SLHriesnyNatural</name>
+        <description>trail sa pocas krizenia toci dolava, na fotke osvetlene pokracovanie
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.189655,48.772479</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SV DržHuba + Zlatoklopka + Lesmír</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.210692,48.744958</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smerovník vpravo Lesmír + Smerovník vpravo DržHuba + Smerovník vľavo Zlatoklopka</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.213290,48.748055</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smerovník vľavo Lesmír + Smerovník vľavo DržHuba +  Smerovník vľavo Zlatoklopka</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.212491,48.746795</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Začiatok trailu Zlatoklopka + Mapa zóny + Smerovník vpravo Lesmír + Smerovník vpravo DržHuba</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.212476,48.747362</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smerovník vľavo Lesmír + Smerovník vľavo DržHuba + Smerovník vpravo Zlatoklopka</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.214730,48.747988</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Začiatok trailu DržHuba + Lesmír + Mapa zóny</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.219319,48.747377</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pozor križovanie + protismer+ SVpred</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "warning", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.215168,48.748279</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP Zlatoklopka + SĽ DržHuba + protismer</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.212530,48.750251</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SV Zlatoklopka + SĽ  DržHuba + protismer</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.212238,48.750136</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec trailu + protismer</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.209123,48.747395</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec trailu + protismer + Spomaľ križovanie</name>
+        <description>
+
+maphub-meta:{"marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.233585,48.746457</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mapa celku + smerovník na zelenú + žltú + červenú + modrú zónu?</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff9e2d48</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.209191,48.744238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Začiatok trailu Prameň invalidov</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.208489,48.744444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MC
+Start Jahoda</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.142492,48.766304</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SR</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.143307,48.772828</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SĽ</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.142556,48.777325</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec Jahoda
+Protismer
+Zákazová značka</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#fb6033"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff3360fb</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.141321,48.780987</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ
+SP  Michalkov</name>
+        <description>Smerovka na zónu 4?</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.141165,48.781254</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP  Michalkov</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.142106,48.782289</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP Michalkov</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.149293,48.783821</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Začiatok trailu Michalkov
+Smerovník obojsmerný</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff54c93c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.150160,48.782637</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP  Michalkov (zhora smer)
+SL  Michalkov (zdola smer)</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.149162,48.778246</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SP</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.156725,48.776633</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Križovanie + zákaz. značka</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff00ccff</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.151710,48.775239</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec Michalkov + zákaz. značka</name>
+        <description>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.171201,48.768178</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vpravo Držhuba + Zlatoklopka + Lesmír</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.233839,48.746409</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smerovník vpravo Zlatoklopka + DržHuba + Lesmír</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.222709,48.749288</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koniec trailu + protismer + križovanie</name>
+        <description>
+
+maphub-meta:{"marker-color": "#e32c31"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff312ce3</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.222648,48.749338</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SV Lesmír + SV DržHUbu</name>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>21.217673,48.747531</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

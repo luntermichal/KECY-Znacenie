@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KE.CY – značenie (zóny 1–4)</name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Style id="s_mapy"><IconStyle><color>ff9e2d48</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_prech"><IconStyle><color>ff8136b6</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_start"><IconStyle><color>ff54c93c</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_sm"><IconStyle><color>ffd4773c</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_kriz"><IconStyle><color>ff00ccff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_end"><IconStyle><color>ff312ce3</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Style id="s_vyst"><IconStyle><color>ff151bcc</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle></Style>
+    <Folder>
+      <name>Zóna 1 (zelená) (17)</name>
+      <description>Zóna 1 (zelená): zelená – Červený breh, Košice
+Traily: DržHubu (medium), Lesmír (difficult), Zlatokopka (difficult), Bufet (výšľap), Cez prameň invalidov (výšľap)
+Bodov spolu: 17</description>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Folder>
+        <name>1 Mapy (MC / MZ) (1)</name>
+        <description>Mapa celku (MC) a mapy zón (MZ)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Mapa celku + smerovník na zelenú + žltú + červenú + modrú zónu?</name>
+          <description>Zóna: 1 (zelená)
+Typ: Mapa
+Obsah:
+  • Mapa celku (MC)
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.744238,21.209191
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.209191,48.744238</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>3 Začiatky trailov (T) (3)</name>
+        <description>Začiatok trailu: tabuľa Start trailu (+ mapa zóny, smerovníky)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Začiatok trailu Zlatokopka + Mapa zóny + Smerovník vpravo Lesmír + Smerovník vpravo DržHubu</name>
+          <description>Zóna: 1 (zelená)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 1 (MZ1)
+  • Začiatok trailu: Zlatokopka
+  • Smerovník vpravo: Lesmír
+  • Smerovník vpravo: DržHubu
+GPS: 48.747362,21.212476
+Pôvodný názov: Začiatok trailu Zlatoklopka + Mapa zóny + Smerovník vpravo Lesmír + Smerovník vpravo DržHuba
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.212476,48.747362</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Začiatok trailu DržHubu + Lesmír + Mapa zóny</name>
+          <description>Zóna: 1 (zelená)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 1 (MZ1)
+  • Začiatok trailu: DržHubu
+  • Začiatok trailu: Lesmír
+GPS: 48.747377,21.219319
+Pôvodný názov: Začiatok trailu DržHuba + Lesmír + Mapa zóny
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.219319,48.747377</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Začiatok trailu Prameň invalidov</name>
+          <description>Zóna: 1 (zelená)
+Typ: Začiatok trailu
+Obsah:
+  • Začiatok trailu: Prameň invalidov
+GPS: 48.744444,21.208489
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.208489,48.744444</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>4 Smerovníky (SĽ / SP / SR-SV) (9)</name>
+        <description>Smerovníky vľavo (SĽ), vpravo (SP), vpred (SR/SV)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>SV DržHubu + Zlatokopka + Lesmír</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: DržHubu
+  • Smerovník vpred: Zlatokopka
+  • Smerovník vpred: Lesmír
+GPS: 48.744958,21.210692
+Pôvodný názov: SV DržHuba + Zlatoklopka + Lesmír</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.210692,48.744958</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Smerovník vpravo Lesmír + Smerovník vpravo DržHubu + Smerovník vľavo Zlatokopka</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Lesmír
+  • Smerovník vpravo: DržHubu
+  • Smerovník vľavo: Zlatokopka
+GPS: 48.748055,21.213290
+Pôvodný názov: Smerovník vpravo Lesmír + Smerovník vpravo DržHuba + Smerovník vľavo Zlatoklopka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.213290,48.748055</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Smerovník vľavo Lesmír + Smerovník vľavo DržHubu + Smerovník vľavo Zlatokopka</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Lesmír
+  • Smerovník vľavo: DržHubu
+  • Smerovník vľavo: Zlatokopka
+GPS: 48.746795,21.212491
+Pôvodný názov: Smerovník vľavo Lesmír + Smerovník vľavo DržHuba +  Smerovník vľavo Zlatoklopka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.212491,48.746795</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Smerovník vľavo Lesmír + Smerovník vľavo DržHubu + Smerovník vpravo Zlatokopka</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Lesmír
+  • Smerovník vľavo: DržHubu
+  • Smerovník vpravo: Zlatokopka
+GPS: 48.747988,21.214730
+Pôvodný názov: Smerovník vľavo Lesmír + Smerovník vľavo DržHuba + Smerovník vpravo Zlatoklopka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.214730,48.747988</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Zlatokopka + SĽ DržHubu + protismer</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Zlatokopka
+  • Smerovník vľavo: DržHubu
+  • Protismer
+GPS: 48.750251,21.212530
+Pôvodný názov: SP Zlatoklopka + SĽ DržHuba + protismer</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.212530,48.750251</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SV Zlatokopka + SĽ DržHubu + protismer</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: Zlatokopka
+  • Smerovník vľavo: DržHubu
+  • Protismer
+GPS: 48.750136,21.212238
+Pôvodný názov: SV Zlatoklopka + SĽ  DržHuba + protismer</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.212238,48.750136</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Vpravo DržHubu + Zlatokopka + Lesmír</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: DržHubu
+  • Smerovník vpravo: Zlatokopka
+  • Smerovník vpravo: Lesmír
+GPS: 48.746409,21.233839
+Pôvodný názov: Vpravo Držhuba + Zlatoklopka + Lesmír</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.233839,48.746409</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Smerovník vpravo Zlatokopka + DržHubu + Lesmír</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Zlatokopka
+  • Smerovník vpravo: DržHubu
+  • Smerovník vpravo: Lesmír
+GPS: 48.749288,21.222709
+Pôvodný názov: Smerovník vpravo Zlatoklopka + DržHuba + Lesmír</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.222709,48.749288</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SV Lesmír + SV DržHubu</name>
+          <description>Zóna: 1 (zelená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: Lesmír
+  • Smerovník vpred: DržHubu
+GPS: 48.747531,21.217673
+Pôvodný názov: SV Lesmír + SV DržHUbu</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.217673,48.747531</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>5 Križovania (1)</name>
+        <description>Križovanie trailu s cestou alebo inou trasou: zákazová značka, protismer, upozornenie</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Pozor križovanie + protismer+ SVpred</name>
+          <description>Zóna: 1 (zelená)
+Typ: Križovanie
+Obsah:
+  • Smerovník vpred
+  • Protismer
+  • Križovanie
+  • Upozornenie: Pozor
+GPS: 48.748279,21.215168
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.215168,48.748279</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>6 Konce trailov a protismer (K / KP) (3)</name>
+        <description>Koniec trailu, protismer, zákazová značka</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Koniec trailu + protismer</name>
+          <description>Zóna: 1 (zelená)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu
+  • Protismer
+GPS: 48.747395,21.209123
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.209123,48.747395</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec trailu + protismer + Spomaľ križovanie</name>
+          <description>Zóna: 1 (zelená)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu
+  • Protismer
+  • Križovanie
+  • Upozornenie: Spomaľ
+GPS: 48.746457,21.233585
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.233585,48.746457</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec trailu + protismer + križovanie</name>
+          <description>Zóna: 1 (zelená)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu
+  • Protismer
+  • Križovanie
+GPS: 48.749338,21.222648
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.222648,48.749338</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Zóna 2 (žltá) (41)</name>
+      <description>Zóna 2 (žltá): žltá – Klatovianka, Girbeš, Kamenný hrb
+Traily: SuRAWy (difficult), Davidoff (difficult), Hupiky (medium), Kamenný (difficult), Bedľa (difficult), Cez prameň invalidov (výšľap)
+Bodov spolu: 41</description>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Folder>
+        <name>1 Mapy (MC / MZ) (3)</name>
+        <description>Mapa celku (MC) a mapy zón (MZ)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MZ2</name>
+          <description>Zóna: 2 (žltá)
+Typ: Mapa
+Obsah:
+  • Mapa zóny 2 (MZ2)
+Poznámka: SP Lesmír, SĽ Hriešny ?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.749907,21.198477
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.198477,48.749907</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Altánok pod vedením: MC, SP SuRAWy,SP Kamenný,SP Davidoff / SĽ Bedľa, SĽ Hupiky</name>
+          <description>Zóna: 2 (žltá)
+Typ: Mapa
+Obsah:
+  • Mapa celku (MC)
+  • Smerovník vpravo: SuRAWy
+  • Smerovník vpravo: Kamenný
+  • Smerovník vpravo: Davidoff
+  • Smerovník vľavo: Bedľa
+  • Smerovník vľavo: Hupiky
+Poznámka: SĽ Jahoda, SĽ Michalkov - alebo značka na Zónu3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.744645,21.193002
+Pôvodný názov: Altanok pod vedenim: MC, SPSurawy,SPKamenny,SPDavidoff / SLBedla, SLHupiky
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.193002,48.744645</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MZ2, SĽ SuRAWy, SĽ Kamenný, SĽ Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Mapa
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Kamenný
+  • Smerovník vľavo: Davidoff
+Poznámka: Navigujeme aj na Zónu 1 a 3 ?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.732273,21.186141
+Pôvodný názov: MZ2, SLSurawy, SLKamenny, SL Davidoff
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.186141,48.732273</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>2 Prechody medzi zónami (4)</name>
+        <description>Značky pri prechode medzi zónami</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MC, SĽ SuRAWy,Davidoff,Kammenny, Z1→Z2</name>
+          <description>Zóna: 2 (žltá)
+Typ: Prechod medzi zónami
+Obsah:
+  • Mapa celku (MC)
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Davidoff
+  • Prechod medzi zónami: zóna 1 → zóna 2
+GPS: 48.741696,21.201960
+Pôvodný názov: MC, SLSurway,Davidoff,Kammenny, Z1-&gt;Z2
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_prech</styleUrl>
+          <Point>
+            <coordinates>21.201960,48.741696</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MZ2, Zóna 1 → Zóna 2 - treba ju tu?</name>
+          <description>Zóna: 2 (žltá)
+Typ: Prechod medzi zónami
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Prechod medzi zónami: zóna 1 → zóna 2
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.747139,21.199696
+Pôvodný názov: MZ2, Zona 1 -&gt; Zona 2 - treba ju tu?
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_prech</styleUrl>
+          <Point>
+            <coordinates>21.199696,48.747139</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Zóna 1 → Zóna 2 ?</name>
+          <description>Zóna: 2 (žltá)
+Typ: Prechod medzi zónami
+Obsah:
+  • Prechod medzi zónami: zóna 1 → zóna 2
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.743202,21.201752
+Pôvodný názov: Zona 1 -&gt; Zona 2 ?
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_prech</styleUrl>
+          <Point>
+            <coordinates>21.201752,48.743202</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Jahoda, SP Michalkov</name>
+          <description>Zóna: 2 (žltá)
+Typ: Prechod medzi zónami
+Obsah:
+  • Mapa celku (MC)
+  • Smerovník vpravo: Jahoda
+  • Smerovník vpravo: Michalkov
+  • Prechod medzi zónami: zóna 2 → zóna 3
+Poznámka: MC, Prechod Zóna 2 → Zóna 3
+GPS: 48.751961,21.171674
+Pôvodný názov: SPJahoda, SP Michalkov
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_prech</styleUrl>
+          <Point>
+            <coordinates>21.171674,48.751961</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>3 Začiatky trailov (T) (3)</name>
+        <description>Začiatok trailu: tabuľa Start trailu (+ mapa zóny, smerovníky)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Start SuRAWy, Kamenný, Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Začiatok trailu: SuRAWy
+  • Začiatok trailu: Kamenný
+  • Začiatok trailu: Davidoff
+  • Tabuľa trailu: SuRAWy
+  • Tabuľa trailu: Kamenný
+  • Tabuľa trailu: Davidoff
+  • Smerovník vpravo: Davidoff
+  • Smerovník vľavo: Kamenný
+  • Križovanie (2×)
+Poznámka: MZ2, TSuRAWy, TKamenný, TDavidoff, SP Davidoff, SĽ Kamenný, 2xKrižovanie
+GPS: 48.744514,21.196153
+Pôvodný názov: Start Surway, Kammeny, Davidoff
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.196153,48.744514</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>StartHupiky</name>
+          <description>Zóna: 2 (žltá)
+Typ: Začiatok trailu
+Obsah:
+  • Začiatok trailu: Hupiky
+GPS: 48.745740,21.186896
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.186896,48.745740</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>StartBedľa</name>
+          <description>Zóna: 2 (žltá)
+Typ: Začiatok trailu
+Obsah:
+  • Začiatok trailu: Bedľa
+GPS: 48.751799,21.171699
+Pôvodný názov: StartBedla
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.171699,48.751799</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>4 Smerovníky (SĽ / SP / SR-SV) (16)</name>
+        <description>Smerovníky vľavo (SĽ), vpravo (SP), vpred (SR/SV)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>SĽ SuRAWy + SV Výšlap</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vpred: Výšlap
+GPS: 48.748479,21.196689
+Pôvodný názov: SLSurawy + SV Výšlap</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.196689,48.748479</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP SuRAWy</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: SuRAWy
+GPS: 48.746536,21.195629
+Pôvodný názov: SPSurway</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.195629,48.746536</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+GPS: 48.745801,21.196507
+Pôvodný názov: SLSurway</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.196507,48.745801</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy, SĽ Kamenný, SĽ Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Kamenný
+  • Smerovník vľavo: Davidoff
+Poznámka: Alebo len šípka vľavo
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.744089,21.196522
+Pôvodný názov: SLSurawy, SL Kamenný,  SL Davidoff</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.196522,48.744089</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Davidoff, SP Bedľa, SP Jahoda, SP Michalkov, SP Hupiky, SP Kamenný, SP SuRAWy</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Davidoff
+  • Smerovník vpravo: Bedľa
+  • Smerovník vpravo: Jahoda
+  • Smerovník vpravo: Michalkov
+  • Smerovník vpravo: Hupiky
+  • Smerovník vpravo: Kamenný
+  • Smerovník vpravo: SuRAWy
+Poznámka: SĽ Lesmír - alebo značka na Zónu1? / SP Jahoda, SP Michalkov - alebo značka na Zónu3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.742825,21.193218
+Pôvodný názov: SLDavidoff, SP Bedľa, SPJahoda, SP Michalkov, SP Hupiky, SP Kamenný, SP SuraWY</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.193218,48.742825</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SR Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: Davidoff
+Poznámka: zákaz peším ?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.742389,21.193093
+Pôvodný názov: SRDavidoff</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.193093,48.742389</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Kamenný</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Kamenný
+GPS: 48.741966,21.197221
+Pôvodný názov: SPKamenny</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.197221,48.741966</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Bedľa, SĽ Hupiky</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Bedľa
+  • Smerovník vľavo: Hupiky
+Poznámka: SĽ Zóna 3
+GPS: 48.745906,21.190761
+Pôvodný názov: SLBedla, SLHupiky</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.190761,48.745906</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Hupiky, SP Bedľa,MZ2</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Smerovník vľavo: Hupiky
+  • Smerovník vpravo: Bedľa
+Poznámka: SĽ Jahoda, SĽ Michalkov - alebo značka na Zónu3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.747647,21.187682
+Pôvodný názov: SLHupiky, SPBedla,MZ2</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.187682,48.747647</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SR Bedľa</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: Bedľa
+Poznámka: SR Jahoda, SR Michalkov resp. len značka na zónu 3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.751141,21.182817
+Pôvodný názov: SRBedla</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.182817,48.751141</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Hupiky, SR Kamenný, Davidoff, SuRAWy</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Hupiky
+  • Smerovník vpred: Kamenný
+  • Smerovník vpred: Davidoff
+  • Smerovník vpred: SuRAWy
+GPS: 48.743230,21.187886
+Pôvodný názov: SLHupiky, SR Kamenný, Davidoff, SuraWy</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.187886,48.743230</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy, SĽ Hupiky, SĽ Bedľa, SĽ Davidoff, SĽ Kamenný</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Hupiky
+  • Smerovník vľavo: Bedľa
+  • Smerovník vľavo: Davidoff
+  • Smerovník vľavo: Kamenný
+Poznámka: SP Lesmír - alebo značka na Zónu1? / SĽ Jahoda, SĽ Michalkov - alebo značka na Zónu3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.743419,21.193169
+Pôvodný názov: SLSurawy,  SL Hupiky, SL Bedla, SL Davidoff, SLKamenný</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.193169,48.743419</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy,SĽ Kamenný, SĽ Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Kamenný
+  • Smerovník vľavo: Davidoff
+Poznámka: SR Lesmír ? Navádzame aj na zónu 1?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.734848,21.189681
+Pôvodný názov: SLSurway,SLKamenny, SL Davidoff</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.189681,48.734848</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP SuRAWy, SP Kamenný, SP Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: SuRAWy
+  • Smerovník vpravo: Kamenný
+  • Smerovník vpravo: Davidoff
+GPS: 48.735445,21.192801
+Pôvodný názov: SPSurawy, SPKamenny, SP Davidoff</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.192801,48.735445</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy,SĽ Kamenný, SĽ Davidoff</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Kamenný
+  • Smerovník vľavo: Davidoff
+GPS: 48.735164,21.194217
+Pôvodný názov: SLSurway,SLKamenny, SL Davidoff</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.194217,48.735164</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ SuRAWy, SĽ Kamenný, SĽ Davidoff, SĽ Bedľa, SĽ Hupiky</name>
+          <description>Zóna: 2 (žltá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: SuRAWy
+  • Smerovník vľavo: Kamenný
+  • Smerovník vľavo: Davidoff
+  • Smerovník vľavo: Bedľa
+  • Smerovník vľavo: Hupiky
+Poznámka: SĽ na zónu 3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.748982,21.192189
+Pôvodný názov: SLSurway, SLKamenny, SLDavidoff, SL Bedľa, SL Hupiky</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.192189,48.748982</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>5 Križovania (8)</name>
+        <description>Križovanie trailu s cestou alebo inou trasou: zákazová značka, protismer, upozornenie</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Križovanie, Protismer, zákaz</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Protismer
+  • Zákazová značka
+  • Križovanie
+Poznámka: Kvôli koňom
+GPS: 48.739067,21.190995
+Pôvodný názov: Krizenie, Protismer, zakaz
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.190995,48.739067</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie + protismer a zákaz</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Protismer
+  • Zákazová značka
+  • Križovanie
+GPS: 48.748357,21.196408
+Pôvodný názov: Krizovanie + protismer a zákaz
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.196408,48.748357</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie SuRAWy x Červená + protismer + Zákaz</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Protismer
+  • Zákazová značka
+  • Križovanie
+GPS: 48.746582,21.196021
+Pôvodný názov: Krizenie Surawy x Cervena + protismer + Zákaz
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.196021,48.746582</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie Davidoff x Cyklo, Protismer a zákazové tabule</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Protismer
+  • Zákazová značka
+  • Križovanie
+GPS: 48.742973,21.193381
+Pôvodný názov: Krizenie Davidoff x Cyklo, Protismer a zákazové tabule
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.193381,48.742973</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie, Protismer Kamenný x Cesta</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Protismer
+  • Križovanie
+Poznámka: Zakazová značka, SĽ Kamenný
+GPS: 48.742008,21.197125
+Pôvodný názov: Krizenie, Protismer Kamenny x Cesta
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.197125,48.742008</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie,Protismer, Zákaz. značka, SR Bedľa</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Smerovník vpred: Bedľa
+  • Protismer
+  • Zákazová značka
+  • Križovanie
+GPS: 48.749357,21.173808
+Pôvodný názov: Krizovanie,Protismer, Zákaz. značka, SR Bedla
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.173808,48.749357</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie, SR Bedľa, SP Hupiky</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Smerovník vpred: Bedľa
+  • Smerovník vpravo: Hupiky
+  • Križovanie
+Poznámka: Protismer pre Bedľu + zákazová tabuľa
+GPS: 48.739441,21.176849
+Pôvodný názov: Krizovanie, SRBedla, SPHupiky
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.176849,48.739441</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie, SR Bedľa</name>
+          <description>Zóna: 2 (žltá)
+Typ: Križovanie
+Obsah:
+  • Smerovník vpred: Bedľa
+  • Križovanie
+Poznámka: Alebo Koniec oficiálneho trailu ?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.732518,21.181827
+Pôvodný názov: Krizenie, SRBedla
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.181827,48.732518</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>6 Konce trailov a protismer (K / KP) (5)</name>
+        <description>Koniec trailu, protismer, zákazová značka</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>KSuRAWy, Križovanie</name>
+          <description>Zóna: 2 (žltá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: SuRAWy
+  • Križovanie
+GPS: 48.749856,21.198407
+Pôvodný názov: KSurway, Krizenie
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.198407,48.749856</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec Davidoff, Zákazová tabuľa, Protismer, MZ2, SĽ SuRAWy</name>
+          <description>Zóna: 2 (žltá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Smerovník vľavo: SuRAWy
+  • Koniec trailu: Davidoff
+  • Protismer
+  • Zákazová značka
+GPS: 48.735379,21.188804
+Pôvodný názov: Koniec Davidoff, Zákazová tabula, Protismer, MZ2, SLSurawy
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.188804,48.735379</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec Kamenný + Protismer + Zákazová značka</name>
+          <description>Zóna: 2 (žltá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Kamenný
+  • Protismer
+  • Zákazová značka
+GPS: 48.741761,21.201730
+Pôvodný názov: Koniec Kamenny + Protismer + Zákazová značka
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.201730,48.741761</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>KPBedľa</name>
+          <description>Zóna: 2 (žltá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Bedľa
+GPS: 48.732322,21.186043
+Pôvodný názov: KPBedla
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.186043,48.732322</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec Hupiky, SP Jahoda, SP Michalkov, MZ2</name>
+          <description>Zóna: 2 (žltá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Mapa zóny 2 (MZ2)
+  • Smerovník vpravo: Jahoda
+  • Smerovník vpravo: Michalkov
+  • Koniec trailu: Hupiky
+Poznámka: SĽ SuRAWy? / Prechod Zóna 2 → Zóna 3 ?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.746057,21.168936
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.168936,48.746057</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>7 Výstrahy (!) (2)</name>
+        <description>Výstraha pred náročným / nebezpečným úsekom</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Nebezpečný úsek</name>
+          <description>Zóna: 2 (žltá)
+Typ: Výstraha
+Poznámka: Prepad 1
+GPS: 48.746214,21.196160
+Pôvodný názov: Nebezpecny usek
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_vyst</styleUrl>
+          <Point>
+            <coordinates>21.196160,48.746214</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Nebezpečný úsek</name>
+          <description>Zóna: 2 (žltá)
+Typ: Výstraha
+Poznámka: Skala
+GPS: 48.739909,21.200291
+Pôvodný názov: Nebezpecny usek
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_vyst</styleUrl>
+          <Point>
+            <coordinates>21.200291,48.739909</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Zóna 3 (červená) (12)</name>
+      <description>Zóna 3 (červená): červená – Jahodná-Rázcestie, Rákocziho prameň
+Traily: Jahoda (medium), Michalkov (medium)
+Bodov spolu: 12</description>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Folder>
+        <name>1 Mapy (MC / MZ) (1)</name>
+        <description>Mapa celku (MC) a mapy zón (MZ)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MZ / SP Michalkov</name>
+          <description>Zóna: 3 (červená)
+Typ: Mapa
+Obsah:
+  • Mapa zóny 3 (MZ3)
+  • Smerovník vpravo: Michalkov
+Poznámka: Smerovka na zónu 4?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.781254,21.141165
+Pôvodný názov: MZ / SP  Michalkov
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.141165,48.781254</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>3 Začiatky trailov (T) (2)</name>
+        <description>Začiatok trailu: tabuľa Start trailu (+ mapa zóny, smerovníky)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MC / Start Jahoda</name>
+          <description>Zóna: 3 (červená)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa celku (MC)
+  • Začiatok trailu: Jahoda
+GPS: 48.766304,21.142492
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.142492,48.766304</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Začiatok trailu Michalkov / Smerovník obojsmerný</name>
+          <description>Zóna: 3 (červená)
+Typ: Začiatok trailu
+Obsah:
+  • Začiatok trailu: Michalkov
+  • Smerovník obojsmerný
+GPS: 48.782637,21.150160
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.150160,48.782637</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>4 Smerovníky (SĽ / SP / SR-SV) (6)</name>
+        <description>Smerovníky vľavo (SĽ), vpravo (SP), vpred (SR/SV)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>SR</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred (trail nedoplnený)
+GPS: 48.772828,21.143307</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.143307,48.772828</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo (trail nedoplnený)
+GPS: 48.777325,21.142556</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.142556,48.777325</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Michalkov</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Michalkov
+GPS: 48.782289,21.142106
+Pôvodný názov: SP  Michalkov</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.142106,48.782289</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Michalkov</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Michalkov
+GPS: 48.783821,21.149293</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.149293,48.783821</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Michalkov (zhora smer) / SĽ Michalkov (zdola smer)</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Michalkov
+  • Smerovník vľavo: Michalkov
+GPS: 48.778246,21.149162
+Pôvodný názov: SP  Michalkov (zhora smer) / SL  Michalkov (zdola smer)</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.149162,48.778246</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP</name>
+          <description>Zóna: 3 (červená)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo (trail nedoplnený)
+GPS: 48.776633,21.156725</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.156725,48.776633</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>5 Križovania (1)</name>
+        <description>Križovanie trailu s cestou alebo inou trasou: zákazová značka, protismer, upozornenie</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Križovanie + zákaz. značka</name>
+          <description>Zóna: 3 (červená)
+Typ: Križovanie
+Obsah:
+  • Zákazová značka
+  • Križovanie
+GPS: 48.775239,21.151710
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.151710,48.775239</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>6 Konce trailov a protismer (K / KP) (2)</name>
+        <description>Koniec trailu, protismer, zákazová značka</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Koniec Jahoda / Protismer / Zákazová značka</name>
+          <description>Zóna: 3 (červená)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Jahoda
+  • Protismer
+  • Zákazová značka
+GPS: 48.780987,21.141321
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.141321,48.780987</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Koniec Michalkov + zákaz. značka</name>
+          <description>Zóna: 3 (červená)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Michalkov
+  • Zákazová značka
+GPS: 48.768178,21.171201
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.171201,48.768178</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Zóna 4 (modrá) (29)</name>
+      <description>Zóna 4 (modrá): modrá – Hrešná, ZOO, Kavečany
+Traily: Mravenisko (easy), Natural (medium), Flow trail (medium), Hriešny (výšľap)
+Bodov spolu: 29</description>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Folder>
+        <name>1 Mapy (MC / MZ) (3)</name>
+        <description>Mapa celku (MC) a mapy zón (MZ)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MC, SR Hriešny, SĽ Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Mapa
+Obsah:
+  • Mapa celku (MC)
+  • Smerovník vpred: Hriešny
+  • Smerovník vľavo: Hriešny Flow
+Poznámka: existujúca tyčka
+GPS: 48.769185,21.205448
+Pôvodný názov: MC, SRHriesny, SLHriesnyFlow
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.205448,48.769185</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MC Hresna</name>
+          <description>Zóna: 4 (modrá)
+Typ: Mapa
+Obsah:
+  • Mapa celku (MC)
+Poznámka: pridať k turistickým mapám aj tu našu
+GPS: 48.779858,21.188264
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.188264,48.779858</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MC Alpinka</name>
+          <description>Zóna: 4 (modrá)
+Typ: Mapa
+Obsah:
+  • Mapa celku (MC)
+Poznámka: pridať k turistickým mapám aj tu našu
+GPS: 48.760296,21.180958
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_mapy</styleUrl>
+          <Point>
+            <coordinates>21.180958,48.760296</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>3 Začiatky trailov (T) (4)</name>
+        <description>Začiatok trailu: tabuľa Start trailu (+ mapa zóny, smerovníky)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>MZ4, Start SR Hriešny Mravenisko</name>
+          <description>Zóna: 4 (modrá)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 4 (MZ4)
+  • Začiatok trailu: Hriešny Mravenisko
+  • Smerovník vpred: Hriešny Mravenisko
+Poznámka: existujúca tyčka
+GPS: 48.779508,21.188138
+Pôvodný názov: MZ4, Start SRHriesnyMravenisko
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.188138,48.779508</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MZ4, Start SP Hriešny Natural</name>
+          <description>Zóna: 4 (modrá)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 4 (MZ4)
+  • Začiatok trailu: Hriešny Natural
+  • Smerovník vpravo: Hriešny Natural
+Poznámka: existujúca tyčka
+GPS: 48.776513,21.190088
+Pôvodný názov: MZ4, Start SPHriesnyNatural
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.190088,48.776513</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MZ4, Start SR Hriešny Výšlap, SR Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 4 (MZ4)
+  • Začiatok trailu: Hriešny Výšlap
+  • Začiatok trailu: Hriešny Flow
+  • Smerovník vpred: Hriešny Výšlap
+  • Smerovník vpred: Hriešny Flow
+Poznámka: start výšlapu aktuálne neoznačený
+GPS: 48.768453,21.192248
+Pôvodný názov: MZ4, Start SRHriesnyVyslap, SRHriesnyFlow
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.192248,48.768453</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>MZ4, Start SR Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Začiatok trailu
+Obsah:
+  • Mapa zóny 4 (MZ4)
+  • Začiatok trailu: Hriešny Flow
+  • Smerovník vpred: Hriešny Flow
+GPS: 48.765887,21.195697
+Pôvodný názov: MZ4, Start SRHriesnyFlow
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_start</styleUrl>
+          <Point>
+            <coordinates>21.195697,48.765887</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>4 Smerovníky (SĽ / SP / SR-SV) (15)</name>
+        <description>Smerovníky vľavo (SĽ), vpravo (SP), vpred (SR/SV)</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>SP Hriešny Natural,SĽ Hriešny Mravenisko</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny Natural
+  • Smerovník vľavo: Hriešny Mravenisko
+Poznámka: alebo ako uz mame iba SR Hriešny Natural
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.777501,21.189220
+Pôvodný názov: SPHriesnyNatural,SLHriesnyMravenisko</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.189220,48.777501</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SR Hriešny Natural</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpred: Hriešny Natural
+Poznámka: stĺpik medzi cestami, ukazuje na ďalší smerovník
+GPS: 48.777130,21.189360
+Pôvodný názov: SRHriesnyNatural</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.189360,48.777130</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Hriešny Natural</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Hriešny Natural
+Poznámka: možno v tejto časti budu stačiť 2 smerovníky
+GPS: 48.776784,21.189534
+Pôvodný názov: SLHriesnyNatural</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.189534,48.776784</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Hriešny Flow
+GPS: 48.767916,21.191226
+Pôvodný názov: SLHriesnyFlow</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.191226,48.767916</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny Flow
+Poznámka: koniec hornej časti flowu (loop)
+GPS: 48.766609,21.193614
+Pôvodný názov: SPHriesnyFlow</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.193614,48.766609</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Hriešny, SP Alpinka</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Hriešny
+  • Smerovník vpravo: Alpinka
+GPS: 48.758839,21.193058
+Pôvodný názov: SLHriesny, SPAlpinka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.193058,48.758839</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny
+Poznámka: + Značka SP zóna 1-3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.758204,21.192114</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.192114,48.758204</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Alpinka</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Alpinka
+Poznámka: Značka SP zóna 1-3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.759033,21.189294
+Pôvodný názov: SLAlpinka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.189294,48.759033</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny Flow
+GPS: 48.759566,21.188663
+Pôvodný názov: SPHriesnyFlow</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.188663,48.759566</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Alpinka</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Alpinka
+Poznámka: Značka SP zóna 1-3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.761392,21.186968
+Pôvodný názov: SLAlpinka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.186968,48.761392</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Alpinka</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Alpinka
+Poznámka: Značka SP zóna 1-3?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.759040,21.186144
+Pôvodný názov: SPAlpinka</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.186144,48.759040</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SĽ Bankov, koniec zóny 4</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vľavo: Bankov
+Poznámka: Značka na SĽ Zóna 1 a 2?
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.762235,21.177162
+Pôvodný názov: SLBankov, koniec zony4</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.177162,48.762235</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny? zóna 4</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.796580,21.159510
+Pôvodný názov: SPHriesny? zona4</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.159510,48.796580</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny? zóna 4</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.785700,21.165140
+Pôvodný názov: SPHriesny? zona4</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.165140,48.785700</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SP Hriešny? zóna 4</name>
+          <description>Zóna: 4 (modrá)
+Typ: Smerovník
+Obsah:
+  • Smerovník vpravo: Hriešny
+⚠ Treba overiť / rozhodnúť (v pôvodnom popise je otáznik alebo alternatíva)
+GPS: 48.762844,21.178979
+Pôvodný názov: SPHriesny? zona4</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_sm</styleUrl>
+          <Point>
+            <coordinates>21.178979,48.762844</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>5 Križovania (2)</name>
+        <description>Križovanie trailu s cestou alebo inou trasou: zákazová značka, protismer, upozornenie</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Križovanie cesty, SR Hriešny Natural</name>
+          <description>Zóna: 4 (modrá)
+Typ: Križovanie
+Obsah:
+  • Smerovník vpred: Hriešny Natural
+  • Križovanie
+GPS: 48.774917,21.190324
+Pôvodný názov: Krizenie cesty, SRHriesnyNatural
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.190324,48.774917</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Križovanie cesty, SĽ Hriešny Natural</name>
+          <description>Zóna: 4 (modrá)
+Typ: Križovanie
+Obsah:
+  • Smerovník vľavo: Hriešny Natural
+  • Križovanie
+Poznámka: trail sa počas križovania točí doľava, na fotke osvetlené pokračovanie
+GPS: 48.772479,21.189655
+Pôvodný názov: Krizenie cesty, SLHriesnyNatural
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_kriz</styleUrl>
+          <Point>
+            <coordinates>21.189655,48.772479</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>6 Konce trailov a protismer (K / KP) (3)</name>
+        <description>Koniec trailu, protismer, zákazová značka</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>KMravenisko</name>
+          <description>Zóna: 4 (modrá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Mravenisko
+Poznámka: koniec sekcie, z druhej strany protismer
+GPS: 48.777507,21.189130
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.189130,48.777507</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>KNatural, SĽ Hriešny Výšlap/Flow</name>
+          <description>Zóna: 4 (modrá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Smerovník vľavo: Hriešny Výšlap/Flow
+  • Koniec trailu: Natural
+Poznámka: existujúca tyčka na zlom mieste
+GPS: 48.768861,21.191952
+Pôvodný názov: KNatural, SLHriesnyVyslap/Flow
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.191952,48.768861</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>KFlow + protismer + zákaz. tabuľa</name>
+          <description>Zóna: 4 (modrá)
+Typ: Koniec trailu / protismer
+Obsah:
+  • Koniec trailu: Flow
+  • Protismer
+  • Zákazová značka
+GPS: 48.758843,21.192872
+Pôvodný názov: KFlow + protismer + zákaz. tabula
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_end</styleUrl>
+          <Point>
+            <coordinates>21.192872,48.758843</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>7 Výstrahy (!) (2)</name>
+        <description>Výstraha pred náročným / nebezpečným úsekom</description>
+        <visibility>1</visibility>
+        <open>0</open>
+        <Placemark>
+          <name>Potok</name>
+          <description>Zóna: 4 (modrá)
+Typ: Výstraha
+GPS: 48.772446,21.190773
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_vyst</styleUrl>
+          <Point>
+            <coordinates>21.190773,48.772446</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Gap</name>
+          <description>Zóna: 4 (modrá)
+Typ: Výstraha
+Poznámka: momentálne nie je označený
+GPS: 48.760824,21.190718
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</description>
+          <visibility>1</visibility>
+          <styleUrl>#s_vyst</styleUrl>
+          <Point>
+            <coordinates>21.190718,48.760824</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="48.746214" lon="21.19616">
+    <name>Nebezpecny usek</name>
+    <desc>Prepad 1
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</desc>
+  </wpt>
+  <wpt lat="48.746403" lon="21.19624">
+    <name>Nebezpecny usek</name>
+    <desc>Prepad 2
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</desc>
+  </wpt>
+  <wpt lat="48.739909" lon="21.200291">
+    <name>Nebezpecny usek</name>
+    <desc>Skala
+
+maphub-meta:{"marker-symbol": "danger", "marker-color": "#cc1b15"}</desc>
+  </wpt>
+  <wpt lat="48.749907" lon="21.198477">
+    <name>MZ2</name>
+    <desc>SPLesmir, SLHriesny ?</desc>
+  </wpt>
+  <wpt lat="48.741696" lon="21.20196">
+    <name>MC, SLSurway,Davidoff,Kammenny</name>
+    <desc>Prechod Zona 1 -&gt; Zona 2
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</desc>
+  </wpt>
+  <wpt lat="48.744645" lon="21.193002">
+    <name>Altanok pod vedenim</name>
+    <desc>MC, SPSurawy,SPKamenny,SPDavidoff
+SLBedla, SLHupiky
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</desc>
+  </wpt>
+  <wpt lat="48.732273" lon="21.186141">
+    <name>MZ2, SLSurway, SLKamenny</name>
+    <desc>Navigujeme aj na Zonu 1 ?</desc>
+  </wpt>
+  <wpt lat="48.747139" lon="21.199696">
+    <name>MZ2, Zona 1 -&gt; Zona 2</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</desc>
+  </wpt>
+  <wpt lat="48.743202" lon="21.201752">
+    <name>Zona 1 -&gt; Zona 2 ?</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#b63681"}</desc>
+  </wpt>
+  <wpt lat="48.744225" lon="21.195756">
+    <name>Start Surway, Kammeny, Davidoff</name>
+    <desc>MZ2, TSurawy, TKamenny, TDavidoff, SPDavidoff, SLKamenny, 2xKrizenie
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</desc>
+  </wpt>
+  <wpt lat="48.749856" lon="21.198407">
+    <name>KSurway, Krizenie</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#cc1b15"}</desc>
+  </wpt>
+  <wpt lat="48.735379" lon="21.188804">
+    <name>KPDavidoff, MZ2, SLSurawy</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</desc>
+  </wpt>
+  <wpt lat="48.741761" lon="21.20173">
+    <name>KPKamenny</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</desc>
+  </wpt>
+  <wpt lat="48.74574" lon="21.186896">
+    <name>StartHupiky</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</desc>
+  </wpt>
+  <wpt lat="48.751661" lon="21.171983">
+    <name>StartBedla</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#3cc954"}</desc>
+  </wpt>
+  <wpt lat="48.732322" lon="21.186043">
+    <name>KPBedla</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</desc>
+  </wpt>
+  <wpt lat="48.746057" lon="21.168936">
+    <name>KHupiky</name>
+    <desc>SPJahoda, MZ2, SLSurway? 
+Prechod Zona 2 -&gt; Zona 3 ?
+
+maphub-meta:{"marker-symbol": "bicycle", "marker-color": "#e32c31"}</desc>
+  </wpt>
+  <wpt lat="48.748479" lon="21.196689">
+    <name>SLSurway</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.746536" lon="21.195629">
+    <name>SPSurway</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.745801" lon="21.196507">
+    <name>SLSurway</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.744089" lon="21.196522">
+    <name>SLSurway</name>
+    <desc>Alebo len sipka vlavo</desc>
+  </wpt>
+  <wpt lat="48.742825" lon="21.193218">
+    <name>SLDavidoff</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.742389" lon="21.193093">
+    <name>SRDavidoff</name>
+    <desc>zakaz pesim ?</desc>
+  </wpt>
+  <wpt lat="48.741966" lon="21.197221">
+    <name>SRKamenny</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.745906" lon="21.190761">
+    <name>SLBedla, SLHupiky</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.747647" lon="21.187682">
+    <name>SLHupiky, SPBedla,MZ2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.751141" lon="21.182817">
+    <name>SRBedla, SRJahoda</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.751961" lon="21.171674">
+    <name>SLBedla, SPJahoda</name>
+    <desc>MZ2 alebo MC?, Prechod Zona 2 -&gt; Zona 3
+
+maphub-meta:{"marker-symbol": "information", "marker-color": "#482d9e"}</desc>
+  </wpt>
+  <wpt lat="48.74323" lon="21.187886">
+    <name>SLHupiky</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.743466" lon="21.193136">
+    <name>SLSurawy, SLJahoda</name>
+    <desc>SP Lesmir ?</desc>
+  </wpt>
+  <wpt lat="48.734848" lon="21.189681">
+    <name>SLSurway,SLKamenny</name>
+    <desc>SRLesmir ? Navadzame aj na zonu 1?</desc>
+  </wpt>
+  <wpt lat="48.735445" lon="21.192801">
+    <name>SPSurawy, SPKamenny</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.735164" lon="21.194217">
+    <name>SLSurway,SLKamenny</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.748982" lon="21.192189">
+    <name>SLSurway, SLKamenny, SLDavidoff</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="48.739067" lon="21.190995">
+    <name>Krizenie, Protismer, zakaz</name>
+    <desc>Kvoli konom
+
+maphub-meta:{"marker-symbol": "warning"}</desc>
+  </wpt>
+  <wpt lat="48.748357" lon="21.196408">
+    <name>Krizenie Surawy x Vyslap</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.746582" lon="21.196021">
+    <name>Krizenie Surawy x Cervena</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.742973" lon="21.193381">
+    <name>Krizenie Davidoff x Cyklo</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.742008" lon="21.197125">
+    <name>Krizenie, Protismer Kamenny x Cesta</name>
+    <desc>Zakaz pesim, SLKamenny ?
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.749357" lon="21.173808">
+    <name>Krizovanie,Protismer,SRBedla</name>
+    <desc>
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.739441" lon="21.176849">
+    <name>Krizovanie, SRBedla, SPHupiky</name>
+    <desc>Protismer pre Bedlu?
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+  <wpt lat="48.732518" lon="21.181827">
+    <name>Krizenie, SRBedla</name>
+    <desc>Alebo Koniec oficialneho trailu ?
+
+maphub-meta:{"marker-symbol": "crossing", "marker-color": "#ffcc00"}</desc>
+  </wpt>
+</gpx>

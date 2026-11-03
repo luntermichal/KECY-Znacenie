@@ -22,9 +22,3 @@ V prípade záujmu Vám vieme zastrešiť celý dotačný proces – od preveren
 zámeru, cez správne nastavenie projektu a prípravu žiadosti, až po potrebné podklady.
 Projekt nastavíme tak, aby čo najlepšie zodpovedal podmienkam výzvy a mal čo najvyššiu
 šancu na schválenie.
-
-S pozdravom
-Tomáš Fáber 
-Konateľ R&F s.r.o.
-Tel.: +421 915 318 334
-Email: info@dotacie-raf.sk
